@@ -17,6 +17,7 @@ body {
 nav {
   display: flex;
   justify-content: space-between;
+  
   align-items: center;
   padding: 10px;
   background-color: rgba(0, 0, 0, 0.438);
@@ -28,7 +29,7 @@ nav {
 }
 .name-mobile {
   display: none;
-  font-family: 'Lobster', cursive;
+  font-family: "Lobster", cursive;
   text-shadow: 5px 0 5px black;
 }
 .menu-nav a {
@@ -51,7 +52,7 @@ nav {
   background-image: url(/img/backgroun.jpg);
   background-position: 0 -350px;
   background-size: cover;
-  height: 620px;
+  height: 650px;
   display: flex;
 }
 .title-header {
@@ -86,7 +87,7 @@ nav {
   padding: 15px;
 }
 .title-profile h1 {
-  font-family: 'Pacifico', cursive;
+  font-family: "Pacifico", cursive;
   text-align: center;
   padding: 35px;
   color: white;
@@ -132,7 +133,7 @@ nav {
   background-position: 0 -150px;
 }
 .title-experience {
-  font-family: 'Pacifico', cursive;;
+  font-family: "Pacifico", cursive;
   text-align: center;
   padding: 50px;
   color: white;
@@ -207,7 +208,7 @@ nav {
   background-position: 0 -100px;
 }
 .title-education {
-  font-family: 'Pacifico', cursive;;
+  font-family: "Pacifico", cursive;
   text-align: center;
   padding: 50px;
   color: white;
@@ -291,7 +292,7 @@ nav {
   text-align: center;
 }
 .portfolio {
-  font-family: 'Pacifico', cursive;;
+  font-family: "Pacifico", cursive;
   color: white;
   padding: 70px;
 }
@@ -422,7 +423,7 @@ nav {
   background-color: rgb(37, 37, 37);
 }
 .copyright p {
-  font-family: 'Vollkorn', serif;
+  font-family: "Vollkorn", serif;
   text-align: center;
   color: white;
 }
